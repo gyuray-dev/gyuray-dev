@@ -1,8 +1,8 @@
 ## ✋🏻 Welcome! 
-I am a Robotics Software Engineer living in Daejeon, South Korea.
+I'm a random-stack Software Engineer who tasks any tasks that the company requires for me to do
 
-## 🚀 What I do
-- Develope communication modules using industrial communication protocols such as EtherCAT, CANopen, and MC protocol.
-- Integrate sensors, motors, and other hardware components into ROS2.
-- Set up simulation for multi-robot environments using Gazebo.
-- Design and develop backend systems for robot fleet management system.
+## 🚀 What I develop
+- Full-stack web applications 
+- Software related to the maritime S-100 standard
+- Industrial motor controllers, such as EtherCAT and CANopen
+- ROS2-based robotics application software
