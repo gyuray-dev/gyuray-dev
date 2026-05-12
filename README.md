@@ -1,5 +1,5 @@
 ## ✋🏻 Welcome! 
-I'm a random-stack Software Engineer who tasks any tasks that the company requires for me to do
+I'm a random-stack Software Engineer who takes on any tasks the company requires me to do
 
 ## 🚀 What I develop
 - Full-stack web applications 
